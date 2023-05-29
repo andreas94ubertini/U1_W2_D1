@@ -58,8 +58,8 @@ name = "Ubertini"
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let sumResult = x - 4
-console.log("risultato di x - 4 ", sumResult)
+let result = x - 4
+console.log("risultato di x - 4 ", result)
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
